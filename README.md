@@ -673,8 +673,8 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 <br><hr><br>
 
-#### Python Junior [youtube](https://youtu.be/dHkkHB4J7kE), [site](https://podcast.python.ru)
-В каждом выпуске разбираем актуальную для джуниоров проблему и делимся техническими хаками, которые сэкономят вам время
+#### Moscow Python Podcast [youtube](https://www.youtube.com/watch?v=D6qxUF_rvaQ&list=PLv_zOGKKxVph51u_AIswuXCasZ7aZD8t3), [site](https://podcast.python.ru)
+Инициатива крупнейшего в России сообщества питонистов MoscowPython. Эфиры ведут евангелисты сообщества и преподаватели наших курсов LearnPython. Слушайте на сайте, качайте, добавляйте в клиенты
 
 | Ведущие                | twitter                                     |
 | :--------------------- | ------------------------------------------- |
